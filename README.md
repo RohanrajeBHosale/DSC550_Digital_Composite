@@ -11,7 +11,7 @@
 
 ---
 
-## 🖼️ Examples
+## Examples
 
 | Input Sketch | Intermediate (Lineart) | Final Render |
 |:---:|:---:|:---:|
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
 *   **Smart Structural Analysis:** Uses **ControlNet Lineart** (not Canny or Scribble) to differentiate between structural outlines and shading noise, preventing artifacts like "wire-skin."
 *   **Auto-Captioning:** Integrated **BLIP** (Bootstrapping Language-Image Pre-training) model automatically describes your sketch, saving you from writing complex prompts.
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Models
+##  Tech Stack & Models
 
 *   **Base Model:** [Realistic Vision V5.1](https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE) (Stable Diffusion 1.5 fine-tune).
 *   **ControlNet:** [ControlNet v1.1 Lineart](https://huggingface.co/lllyasviel/control_v11p_sd15_lineart).
@@ -42,7 +42,7 @@
 
 ---
 
-## 💻 Installation
+##  Installation
 
 ### Option 1: Google Colab (Recommended)
 This pipeline requires a GPU. The easiest way to run it is via Google Colab.
@@ -71,7 +71,7 @@ This pipeline requires a GPU. The easiest way to run it is via Google Colab.
 
 ---
 
-## 🎮 Usage Guide
+##  Usage Guide
 
 1.  **Initialize Models:** Run the first 5 cells to download and load the weights into VRAM.
 2.  **Launch Dashboard:** Run the cell containing the `ipywidgets` code (Cell 8).
@@ -81,4 +81,11 @@ This pipeline requires a GPU. The easiest way to run it is via Google Colab.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
+•	/notebooks – Final_Sketch_to_Photo.ipynb
+•	/data – test_sketch.jpg, sample_output.png
+•	README.md – Usage instructions.
+•	requirements.txt – List of libraries (diffusers, transformers, etc.).
+<img width="468" height="95" alt="image" src="https://github.com/user-attachments/assets/01391ae7-90d9-47af-9f28-ad4a012ad4e1" />
+
+
