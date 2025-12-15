@@ -1,0 +1,28 @@
+# Deep Learning Core
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Hugging Face Ecosystem (Generative AI)
+diffusers>=0.25.0
+transformers>=4.35.0
+accelerate>=0.24.0
+safetensors>=0.4.0
+
+# ControlNet Preprocessors (for Lineart detection)
+controlnet-aux>=0.0.7
+
+# Image Processing
+opencv-python>=4.8.0
+Pillow>=9.5.0
+
+# Optimization (Memory efficient attention)
+xformers>=0.0.22
+
+# Interactive Dashboard
+ipywidgets>=8.0.0
+jupyterlab>=4.0.0
+
+# Evaluation & Analysis
+matplotlib>=3.7.0
+pandas>=2.0.0
+scikit-image>=0.21.0
