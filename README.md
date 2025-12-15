@@ -15,8 +15,10 @@
 
 | Input Sketch | Intermediate (Lineart) | Final Render |
 |:---:|:---:|:---:|
-| *(Place `sketch.jpg` here)* | *(Place `wireframe.png` here)* | *(Place `result.png` here)* |<img width="384" height="532" alt="sketch" src="https://github.com/user-attachments/assets/fec98a5b-04bf-4c40-9de4-a6a59d3abb6d" /><img width="397" height="548" alt="wireframe" src="https://github.com/user-attachments/assets/8e676646-41a2-44c3-a944-ef9e154aeb0b" />
-<img width="488" height="670" alt="result" src="https://github.com/user-attachments/assets/fca81048-c74c-463b-8277-8baac053b62c" />
+| <img width="384" height="532" alt="sketch" src="https://github.com/user-attachments/assets/3fb52472-bdae-41a8-af15-d3c6e5a99b82" /> |<img width="397" height="548" alt="wireframe" src="https://github.com/user-attachments/assets/d99ede0a-7182-4367-9083-35159c4cffa6" />
+| <img width="488" height="670" alt="result" src="https://github.com/user-attachments/assets/d6f13b1f-e3c3-45a2-a47f-2693f461c540" />
+|
+
 
 
 
