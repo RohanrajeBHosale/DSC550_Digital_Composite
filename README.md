@@ -82,10 +82,10 @@ This pipeline requires a GPU. The easiest way to run it is via Google Colab.
 ---
 
 ##  Repository Structure
-•	/notebooks – Final_Sketch_to_Photo.ipynb
-•	/data – test_sketch.jpg, sample_output.png
-•	README.md – Usage instructions.
-•	requirements.txt – List of libraries (diffusers, transformers, etc.).
-<img width="468" height="95" alt="image" src="https://github.com/user-attachments/assets/01391ae7-90d9-47af-9f28-ad4a012ad4e1" />
+--/notebooks – Final_Sketch_to_Photo.ipynb
+--/data – test_sketch.jpg, sample_output.png
+--README.md – Usage instructions.
+--requirements.txt – List of libraries (diffusers, transformers, etc.).
+
 
 
